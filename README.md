@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Camilo Vargas</h1>
 <h3 align="center">A passionate Back end developer from Colombia</h3>
 
-- 💬 Ask me about **Nodejs, React, JavaScript/TypeScript, SQL, NoSql, Python**
+- 💬 A passionate back-end developer from **Colombia**.
+- ⚡Fun fact: I love motorcycles and enjoy riding them to explore small towns and landscapes.
 - 📫 How to reach me **ca06vargas@gmail.com**
-- ⚡ Fun fact **I like motorcycles, I like to ride for a while to visit small towns and landscapes.**
 
 ### **📒``Connect with me``**<br>
 <p align="left">
